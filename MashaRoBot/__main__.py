@@ -91,7 +91,7 @@ buttons = [
         InlineKeyboardButton(
             text="ℹ️ 𝚄𝙿𝙳𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻", url="https://t.me/ReDynamicUpdate"),
         InlineKeyboardButton(
-            text="Sᴜᴘᴘᴏʀᴛ 🎵", url="https://t.me/ReDynamicSupport"
+            text="🚑 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙶𝚁𝙾𝚄𝙿", url="https://t.me/ReDynamicSupport"
         ),
     ],
 ]
