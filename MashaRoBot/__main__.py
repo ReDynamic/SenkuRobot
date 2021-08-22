@@ -81,17 +81,17 @@ I'm here to help you manage your groups! Hit Help button below to find out more 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕ Aᴅᴅ Mᴇ 🔘", url="t.me/SenkuRobot?startgroup=true"),
+            text="➕ 𝙰𝙳𝙳 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ➕ ", url="t.me/ReDynamicBot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="❔ Aʙᴏᴜᴛ", callback_data="masha_"),
-        InlineKeyboardButton(text="Hᴇʟᴘ 📕", callback_data="help_back"),
+        InlineKeyboardButton(text="𝙷𝙴𝙻𝙿 𝙰𝙽𝙳 𝙲𝙾𝙼𝙼𝙰𝙽𝙳? ", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(
-            text="📢 News", url="t.me/SenkuNews"),
+            text="ℹ️ 𝚄𝙿𝙳𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻", url="https://t.me/ReDynamicUpdate"),
         InlineKeyboardButton(
-            text="Sᴜᴘᴘᴏʀᴛ 🆘", url="https://t.me/SenkuSupport"
+            text="Sᴜᴘᴘᴏʀᴛ 🎵", url="https://t.me/ReDynamicSupport"
         ),
     ],
 ]
